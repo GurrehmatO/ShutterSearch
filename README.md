@@ -4,6 +4,12 @@
 
 This app is built on react native and is to provide a search interface for shutterstock.
 
+## Screenshots
+
+###Android
+
+###iOS
+
 ## Running the app
 
 1. Clone this repository
