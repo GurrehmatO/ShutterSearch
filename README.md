@@ -6,9 +6,17 @@ This app is built on react native and is to provide a search interface for shutt
 
 ## Screenshots
 
-###Android
+### Android
 
-###iOS
+<img src="screenshots/android/start.png" width="200" />
+<img src="screenshots/android/results.png" width="200" />
+<img src="screenshots/android/full.png" width="200" />
+
+### iOS
+
+<img src="screenshots/ios/start.png" width="250" />
+<img src="screenshots/ios/result.png" width="250" />
+<img src="screenshots/ios/full.png" width="250" />
 
 ## Running the app
 
